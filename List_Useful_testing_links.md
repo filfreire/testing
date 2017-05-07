@@ -12,3 +12,12 @@
 - https://developer.apple.com/reference/xctest (iOS)
 - https://developer.android.com/training/testing/ui-testing/uiautomator-testing.html (Android)
 - https://developer.android.com/training/testing/ui-testing/espresso-testing.html (Android)
+
+## Load Testing
+- http://locust.io
+- https://www.charlesproxy.com/documentation/using-charles/load-testing/
+- https://jmeter.apache.org
+
+## Other
+- Taurus https://gettaurus.org
+
