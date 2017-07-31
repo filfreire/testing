@@ -3,8 +3,7 @@ Triage team is composed by:
 - Lead Developer
 - Product Owner
 
-Bugs are not good or bad: they are important or not.
-Priority(importance of the bug) and severity (amount of damage).
+> Bugs are not good or bad: they are important or not. Priority(importance of the bug) and severity (amount of damage).
 
 A minor bug in a part of the project deemed critical by stakeholders may have hight priority but low severity; Priority of bugs change with the business and technical context; Those that decide bug priority and severity should be acutely aware of business context. Who are the stakeholders? Who are the customers?
 
@@ -22,12 +21,12 @@ Some bugs are not apparent from the start.
 
 Test plan - it's like a net to catch bugs - depends on time and budget for testing. Sometimes it is better to explore more risks, than to explore some risks in depth.
 
-FAST tests- Functional Acceptance Simple tests - tests every capability with normal data to gain confidence that the system handles normal inputs - but doesn't guarantee the system handles invalid inputs properly.
+> FAST tests- Functional Acceptance Simple tests - tests every capability with normal data to gain confidence that the system handles normal inputs - but doesn't guarantee the system handles invalid inputs properly.
 
 Have a Test plan to catch big bugs, then a finner test plan, if you have the time, to catch smaller bugs.
 If a bug won't be fixed, users can by encouraged to use the software in a way that avoids the bug.
 
-Self-veryfied data checks - the software can be checked against a testing oracle - good to find data integrity bugs.
+> Self-veryfied data checks - the software can be checked against a testing oracle - good to find data integrity bugs.
 
 Different techniques should be used to find different kinds of bugs - buffer overflow technique is not the same as calculation techniques; data integrity is not the same as user interface /business logic techniques;
 
@@ -70,7 +69,6 @@ If we use the program in a different way, we can avoid some bugs. Sometimes a wo
 
 Quick patches don't solve problems - fix it the first time.
 
-
 Some bugs are dealbreakers for some people, but for other people, they're not.
 
 If we decide to fix a bug - double check the fix always! - Regression testing is important!
@@ -88,5 +86,3 @@ Ensure some things first like:
 "Exit criteria" - make sure everyone on the project understands their role in the completion of tasks, and exit criteria are accurately defined in their minds.
 
 Our job is done when the bugs left are the ones we can live with.
-
-

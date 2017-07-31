@@ -1,6 +1,6 @@
 # Agile Testing - notes
 
-"Build quality into the product rather than trying to test it in later." - W. Eduards Deming
+> "Build quality into the product rather than trying to test it in later." - W. Eduards Deming
 
 This is the heart of agile teams - build quality into the product.
 
