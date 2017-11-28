@@ -4,6 +4,7 @@ Notes/study on testing
 ## Main links
 - [Useful testing links](https://github.com/filfreire/testing/blob/master/List_Useful_testing_links.md)
 - [Reading List](https://github.com/filfreire/testing/blob/master/readinglist.md)
+- [Notes on java](./Notes_on_java.md)
 
 ## Reading Notes
 - [Agile Testing book](https://github.com/filfreire/testing/blob/master/Notes_on_agile_testing.md)
